@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | The Attitude to Blogging]]></title>
   <link href="http://lijiewang.github.io/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://lijiewang.github.io/"/>
-  <updated>2014-01-05T14:42:32+08:00</updated>
+  <updated>2014-01-05T15:26:41+08:00</updated>
   <id>http://lijiewang.github.io/</id>
   <author>
     <name><![CDATA[Wanglijie]]></name>
@@ -18,7 +18,10 @@
     <link href="http://lijiewang.github.io/blog/2014/01/05/say-hello-to-the-first-blog-in-github/"/>
     <updated>2014-01-05T14:18:54+08:00</updated>
     <id>http://lijiewang.github.io/blog/2014/01/05/say-hello-to-the-first-blog-in-github</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<pre><code>This is the first blog in GitHub.
+In order to make a blog in Github, I learn how to use Git again. (I contacted GitHub in the July,2013, but give up not soon.)
+Maybe this is another chance to learn in GitHub, and make a little change in the long way of lifeLearning.
+</code></pre>
 ]]></content>
   </entry>
   
