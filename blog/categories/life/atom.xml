@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Attitude to Blogging]]></title>
-  <link href="http://lijiewang.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Life | The Attitude to Blogging]]></title>
+  <link href="http://lijiewang.github.io/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://lijiewang.github.io/"/>
   <updated>2014-01-05T14:42:32+08:00</updated>
   <id>http://lijiewang.github.io/</id>
