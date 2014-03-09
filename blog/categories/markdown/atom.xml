@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[The Attitude to Blogging]]></title>
-  <link href="http://lijiewang.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Markdown | The Attitude to Blogging]]></title>
+  <link href="http://lijiewang.github.io/blog/categories/markdown/atom.xml" rel="self"/>
   <link href="http://lijiewang.github.io/"/>
   <updated>2014-03-09T11:43:19+08:00</updated>
   <id>http://lijiewang.github.io/</id>
@@ -60,18 +60,6 @@
 <p>   9th March, 2014</p>
 
 <p>   in Wuhan</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Say Hello to the First Blog in GitHub]]></title>
-    <link href="http://lijiewang.github.io/blog/2014/01/05/say-hello-to-the-first-blog-in-github/"/>
-    <updated>2014-01-05T14:18:54+08:00</updated>
-    <id>http://lijiewang.github.io/blog/2014/01/05/say-hello-to-the-first-blog-in-github</id>
-    <content type="html"><![CDATA[<pre><code>This is the first blog in GitHub.
-In order to make a blog in Github, I learn how to use Git again. (I contacted GitHub in the July,2013, but give up not soon.)
-Maybe this is another chance to learn in GitHub, and make a little change in the long way of lifeLearning.
-</code></pre>
 ]]></content>
   </entry>
   
