@@ -3,11 +3,12 @@
 # ----------------------- #
 
 url: http://lijiewang.github.io
-title: The attitude to Blogging
+title: The Attitude to Blogging
 subtitle: Blogging the work&life.
 author: Wanglijie
 simple_search: http://google.com/search
 description:
+endcoding: utf-8
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
