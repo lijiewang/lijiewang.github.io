@@ -4,7 +4,7 @@
   <title><![CDATA[The Attitude to Blogging]]></title>
   <link href="http://lijiewang.github.io/atom.xml" rel="self"/>
   <link href="http://lijiewang.github.io/"/>
-  <updated>2014-05-06T07:27:00+08:00</updated>
+  <updated>2014-05-06T07:46:43+08:00</updated>
   <id>http://lijiewang.github.io/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello]]></title>
+    <link href="http://lijiewang.github.io/blog/2014/05/06/hello/"/>
+    <updated>2014-05-06T07:46:42+08:00</updated>
+    <id>http://lijiewang.github.io/blog/2014/05/06/hello</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Learning Markdown]]></title>
