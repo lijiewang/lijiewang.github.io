@@ -4,7 +4,7 @@
   <title><![CDATA[The Attitude to Blogging]]></title>
   <link href="http://lijiewang.github.io/atom.xml" rel="self"/>
   <link href="http://lijiewang.github.io/"/>
-  <updated>2014-05-06T07:50:51+08:00</updated>
+  <updated>2014-06-09T21:55:30+08:00</updated>
   <id>http://lijiewang.github.io/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -14,11 +14,49 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello]]></title>
-    <link href="http://lijiewang.github.io/blog/2014/05/06/hello/"/>
-    <updated>2014-05-06T07:46:42+08:00</updated>
-    <id>http://lijiewang.github.io/blog/2014/05/06/hello</id>
-    <content type="html"><![CDATA[<p>hello git!</p>
+    <title type="html"><![CDATA[我为什么又开始写博客了？]]></title>
+    <link href="http://lijiewang.github.io/blog/2014/06/09/why-i-back-to-blog/"/>
+    <updated>2014-06-09T21:40:07+08:00</updated>
+    <id>http://lijiewang.github.io/blog/2014/06/09/why-i-back-to-blog</id>
+    <content type="html"><![CDATA[<p>小学时，老师要求每天要写日记，记录当天发生的事情，为每次语文考试作准备，记得当时最头疼的莫过于800字作文，像我这种在小学时明显偏科(偏数学)的问题学生来说，更是如此。当时日记连流水账都算不上，只能说是应付老师的凑数字而已。</p>
+
+<p>中学时代，由于课程增多，学习压力也上来了，语言老师也就适度“减负”了，把日记改为了周记，每周写下自己印象深刻的所看，所听或所感，不要求写得多么好，但要求是真实的感受和见闻。当时每每玩到周末后的最后几小时才提笔开始写作文，有时提笔分神半个多钟头，也才写完第一段&hellip;..以致每回作文都是个人成绩单上的一大短板。后来到了初三，不知是个人醒悟还是在老师的循循善诱和各种威逼之下，尽然养成了每天写日记的习惯，现在想来，可能是情感和压力宣泄地需要吧！这个习惯一直坚持了两年，跨越了初三和高一。在当时的氛围下每次看着自己写下的文字总能安静下来，去思考一些东西。后面高二玩耍去了，高三备考去了，也把这一优良的习惯给丢失了。</p>
+
+<p>大学时，空闲的时间更多了，但好玩的也似乎更多了，也没能重拾这一习惯，不过也会偶尔在心情波动比较大或环境变化的时候，写些随笔，通过文字来让自己安静下来，更好地面对生活中的变迁。</p>
+
+<p>在大学时，接受到另一好玩且有用的工具，<em>event-time</em>日记。每天晚上将当天自己所做的事及花费的时间记录下来，长此以往来让个人更好地感知时间，也可促进个人更好地把控自己的时间。断断续续的记过一段时间，最长的一次，连续记录72天，由于没有坚持下来，也没能很好地体会到它的好处。现在重新写博客的同时，也尝试着记录event-time日记。</p>
+
+<p>总是仗着个人记性比较好，所以以前都没能体会&#8221;<strong>好记性不如烂笔头</strong>”。不过后来发现慢慢地很多事情，很多宝贵的经历和教训都忘了。再次写起博客，有几个原因：</p>
+
+<blockquote><ul>
+<li>给时间一个更精细的度量，记录生活的点滴</li>
+<li>作为一个程序员，要学习的技术和领域不断更新，写博客可以使自己更好地思考，避免由于要学量大而&#8221;蜻蜓点水&#8221;。写技术博客，可以逼迫自己更深入地理解技术的内在机理，从而养成思考的习惯。</li>
+<li>浮躁的生活和社会环境，更需要一份静，一点专，文字可以促使人安静地思考一些东西。</li>
+</ul>
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[一周年]]></title>
+    <link href="http://lijiewang.github.io/blog/2014/05/27/one-year/"/>
+    <updated>2014-05-27T22:05:24+08:00</updated>
+    <id>http://lijiewang.github.io/blog/2014/05/27/one-year</id>
+    <content type="html"><![CDATA[<p>求学约莫十六载，工作一年，mark一下，从工作和生活来总结一下，以更好地把握当下。</p>
+
+<h2>工作</h2>
+
+<p>在工作中也经历过一些事情，同事的离去，部门的调整，自己的生活和工作也多少受到些影响，从心态，工作内容上来总结下工作一周年。
+结合老同事所提的意见。</p>
+
+<h2>生活</h2>
+
+<p>生活类的总结。
+体育运动，如羽毛球和游泳。</p>
+
+<p>2014年目标：<strong>养成写技术博客的习惯</strong>。</p>
+
+<p>在这里记录所思，所想，为时间找一把更精细的尺子。</p>
 ]]></content>
   </entry>
   
