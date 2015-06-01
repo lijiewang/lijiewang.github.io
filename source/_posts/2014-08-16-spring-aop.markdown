@@ -3,7 +3,7 @@ layout: post
 title: "Spring AOP"
 date: 2014-08-16 17:46:32 +0800
 comments: true
-categories:  study, AOP 
+categories:  [study, AOP]
 ---
 
 对Spring AOP的实现机制一直是只知其然，而不知其所以然，平时工作中也仅限于会配置会用而已。前几周Debug时，发现BeanCopier这个类，进而了解到
