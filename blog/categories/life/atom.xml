@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Life | The Attitude to Blogging]]></title>
   <link href="http://lijiewang.github.io/blog/categories/life/atom.xml" rel="self"/>
   <link href="http://lijiewang.github.io/"/>
-  <updated>2014-08-16T18:17:53+08:00</updated>
+  <updated>2015-06-01T21:52:40+08:00</updated>
   <id>http://lijiewang.github.io/</id>
   <author>
     <name><![CDATA[Jack]]></name>
@@ -14,25 +14,14 @@
 
   
   <entry>
-    <title type="html"><![CDATA[一周年]]></title>
-    <link href="http://lijiewang.github.io/blog/2014/05/27/one-year/"/>
-    <updated>2014-05-27T22:05:24+08:00</updated>
-    <id>http://lijiewang.github.io/blog/2014/05/27/one-year</id>
-    <content type="html"><![CDATA[<p>求学约莫十六载，工作一年，mark一下，从工作和生活来总结一下，以更好地把握当下。</p>
-
-<h2>工作</h2>
-
-<p>在工作中也经历过一些事情，同事的离去，部门的调整，自己的生活和工作也多少受到些影响，从心态，工作内容上来总结下工作一周年。
-结合老同事所提的意见。</p>
-
-<h2>生活</h2>
-
-<p>生活类的总结。
-体育运动，如羽毛球和游泳。</p>
-
-<p>2014年目标：<strong>养成写技术博客的习惯</strong>。</p>
-
-<p>在这里记录所思，所想，为时间找一把更精细的尺子。</p>
+    <title type="html"><![CDATA[Say Hello to the First Blog in GitHub]]></title>
+    <link href="http://lijiewang.github.io/blog/2014/01/05/say-hello-to-the-first-blog-in-github/"/>
+    <updated>2014-01-05T14:18:54+08:00</updated>
+    <id>http://lijiewang.github.io/blog/2014/01/05/say-hello-to-the-first-blog-in-github</id>
+    <content type="html"><![CDATA[<pre><code>This is the first blog in GitHub.
+In order to make a blog in Github, I learn how to use Git again. (I contacted GitHub in the July,2013, but give up not soon.)
+Maybe this is another chance to learn in GitHub, and make a little change in the long way of lifeLearning.
+</code></pre>
 ]]></content>
   </entry>
   
